@@ -4,7 +4,7 @@ In this project we learned a few basic scripting mechanisems, object uploading a
  
 [itch.io game](https://mayamichael.itch.io/unity-intro)
 
-# Credits
+## Credits
 [Shelf image](https://www.mrhandyman.com/blog/2017/august/fill-empty-wall-space-by-installing-floating-she/)
 [Pendulum image](https://woodtrick.com/products/pendulum-wall-clock-wooden-toy-model)
 [Pendulum clock image](https://www.seikoclocksusa.com/collections/qxh066blh/)
