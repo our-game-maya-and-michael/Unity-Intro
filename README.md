@@ -1,7 +1,6 @@
 # Unity Intro
 
 In this project we learned a few basic scripting mechanisems, object uploading and adding components.
- 
 [itch.io game](https://mayamichael.itch.io/unity-intro)
 
 ## Credits
